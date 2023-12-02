@@ -1,0 +1,74 @@
+.box{
+    width:200px;
+    height:100px;
+    border-radius: 3px solid black;
+    padding:10px;
+    margin:10px
+    ;
+}
+
+
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+    font-weight: 800px;
+}
+.but{
+  
+            border-width: 1px;
+            border-style: solid;
+           
+}
+
+.button1 {
+    background-color: black;
+}
+.button2{
+    background-color: #F7D8BA;
+    font-weight: 700px;
+    color: black;
+}
+.button3{
+    background-color: gray;
+}
+.button4{
+    background-color: #CDDFF4;
+    color: 
+    black;
+}
+.button5{
+    background-color: #b7e7d0;
+    color: black;
+}
+.button6{
+    background-color: orange;
+}
+.button7{
+    background-color: plum;
+}
+.button8{
+    background-color: lightgray;
+    color: black;
+    font-weight: 800px;
+}
+.zoom {
+   
+    transition: transform .2s;
+    /* Animation */
+   
+   
+}
+
+.zoom:hover {
+    transform: scale(1.15);
+    /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+/* Green */
